@@ -58,9 +58,8 @@ input{
     padding-left: 20px;
 }
 input:hover{
-   border-color: #b2dfdb;
-   border-width: 2px;
-   box-shadow: all;
+   border-width: 0px;
+ box-shadow: 0 1px 6px 0 rgba(32, 33, 36, .78);
 
 }
 input{
